@@ -1,5 +1,5 @@
 # Pump.Fun-Bot-Source-Code
-Buy working JS Source Code for a Pump.Fun Bot including all of the code you need to make transactions.
+Buy working JS Source Code for a Pump.Fun Trading Bot including all of the code you need to make transactions.
 
 **Price: 5 SOL**
 
