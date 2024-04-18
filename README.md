@@ -5,7 +5,7 @@ Buy working JS Source Code for a Pump.Fun Bot including all of the code you need
 
 Visit: https://pumpfunbotsourcecode.com for more information
 
-Message us on telegram to purchase:
+Message us on telegram to purchase: https://t.me/PumpFunBotSourceCode
 
 
 
