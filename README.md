@@ -3,11 +3,9 @@ Buy working JS Source Code for a Pump.Fun Bot including all of the code you need
 
 **Price: 5 SOL**
 
-Visit: https://pumpfunbotsourcecode.com for more information
+**Message us on telegram to purchase**: https://t.me/PumpFunBotSourceCode
 
-Message us on telegram to purchase: https://t.me/PumpFunBotSourceCode
-
-
+**Visit**: https://pumpfunbotsourcecode.com for more information
 
 ## Features
 
